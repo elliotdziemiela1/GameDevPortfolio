@@ -252,4 +252,20 @@ section {
   padding-top: 50px;
 }
 
+.aboutContainer {
+  margin: auto;
+  width: 60%;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.aboutContainer img {
+  width: 350px; 
+  height: 350px; 
+  border-radius: 50%;
+  /* object-fit: cover; */
+}
 /*# sourceMappingURL=styles.css.map */
